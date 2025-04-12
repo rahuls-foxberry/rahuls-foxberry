@@ -1,3 +1,5 @@
+![Alt Text](./Dino_non-birthday_version.gif)
+
 - 👋 Hi, I’m Rahul Sah
 - 👀 I’m interested in Web, Mobile and AI/ML Development
 - 🌱 I’m currently learning Full Stack Development
